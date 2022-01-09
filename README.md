@@ -6,11 +6,11 @@ This projects aims in detection of video deepfakes using deep learning technique
    
 ## System Architecture
 <p align="center">
-  <img src="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/github_assets/System%20Architecture.png" />
+  <img src="https://github.com/tauseefmohammed2/Deepfake-Detection-in-Videos-using-Neural-Networks/blob/master/github_assets/System%20Architecture.png" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/github_assets/fakegif.gif" />
+  <img src="https://github.com/tauseefmohammed2/Deepfake-Detection-in-Videos-using-Neural-Networks/blob/master/github_assets/fakegif.gif" />
 </p>
 
 ## Contributors
